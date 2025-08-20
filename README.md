@@ -18,5 +18,5 @@
 
 
 
-[linkedin]: [https://www.linkedin.com/in/valeriy-vdovich/]
+[linkedin]: https://linkedin.com/in/valeriy-vdovich
 
