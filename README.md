@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: (https://www.linkedin.com/in/valeriy-vdovich/)
