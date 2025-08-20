@@ -1,4 +1,4 @@
-<h1>Hi, I'm Valeriy Go by Val, an <a href="https://linkedin.com/in/valeriy-vdovich">IT Professional</a>☺</h1>
+<h1>Hi, I'm Valeriy (Val), an <a href="https://linkedin.com/in/valeriy-vdovich">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
