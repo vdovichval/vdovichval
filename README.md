@@ -1,9 +1,9 @@
-<h1>Hi, I'm Valeriy, an <a href="https://linkedin.com/in/valeriy-vdovich">IT Professional</a>☺</h1>
+<h1>Hi, I'm Valeriy Go by Val, an <a href="https://linkedin.com/in/valeriy-vdovich">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/vdovichval/OSticket-Prereq)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
